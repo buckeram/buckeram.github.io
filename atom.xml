@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Buckeram]]></title>
   <link href="http://buckeram.github.io/atom.xml" rel="self"/>
   <link href="http://buckeram.github.io/"/>
-  <updated>2016-02-03T22:22:47+00:00</updated>
+  <updated>2016-02-04T00:10:22+00:00</updated>
   <id>http://buckeram.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Buckeram]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
